@@ -1,0 +1,1 @@
+"things i learned about git\n- how to init a repo\m- how to stage & commit" 
